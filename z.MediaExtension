@@ -1,0 +1,9 @@
+<configuration xmlns:patch="https://www.sitecore.com/xmlconfig/">
+  <sitecore>
+    <settings>
+      <setting name="Media.RequestExtension">
+        <patch:attribute name="value"></patch:attribute>
+      </setting>
+    </settings>
+  </sitecore>
+</configuration>
