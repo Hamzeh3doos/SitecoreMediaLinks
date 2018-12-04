@@ -1,0 +1,7 @@
+<configuration xmlns:patch="https://www.sitecore.com/xmlconfig/">
+  <sitecore>
+    <settings>
+      <setting name="Media.RequestProtection.Enabled" value="true" />
+    </settings>
+  </sitecore>
+</configuration>
